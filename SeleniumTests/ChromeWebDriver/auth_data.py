@@ -1,2 +1,2 @@
-vk_mobile_numb = '89118673489'
-vk_password = 'nordes12345'
+vk_mobile_numb = '89119163286'
+vk_password = 'my_password123'
